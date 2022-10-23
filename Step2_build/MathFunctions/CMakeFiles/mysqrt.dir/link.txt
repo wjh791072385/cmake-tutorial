@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libmysqrt.a CMakeFiles/mysqrt.dir/mysqrt.cxx.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libmysqrt.a

@@ -9,6 +9,8 @@
 
 int main(int argc, char* argv[])
 {
+  std::cout << "hello cmake" << std::endl;
+
   if (argc < 2) {
     // TODO 12: Create a print statement using Tutorial_VERSION_MAJOR
     //          and Tutorial_VERSION_MINOR

@@ -1,0 +1,6 @@
+/Users/wangjianhong/Desktop/temporary/cmake-3.25.0-rc2-tutorial-source/Step2_build/CMakeFiles/rebuild_cache.dir
+/Users/wangjianhong/Desktop/temporary/cmake-3.25.0-rc2-tutorial-source/Step2_build/CMakeFiles/edit_cache.dir
+/Users/wangjianhong/Desktop/temporary/cmake-3.25.0-rc2-tutorial-source/Step2_build/CMakeFiles/Tutorial.dir
+/Users/wangjianhong/Desktop/temporary/cmake-3.25.0-rc2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/Users/wangjianhong/Desktop/temporary/cmake-3.25.0-rc2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/wangjianhong/Desktop/temporary/cmake-3.25.0-rc2-tutorial-source/Step2_build/MathFunctions/CMakeFiles/mysqrt.dir
